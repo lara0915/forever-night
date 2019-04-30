@@ -2,4 +2,4 @@
 
 [This is Confusing] (http://www.soas.ac.uk)
 
-My laptop is funnily against technology.
+My laptop is funnily against technologies.
